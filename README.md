@@ -72,3 +72,7 @@ The paper is in the repository under [`paper.pdf`](paper.pdf) accompanied by a p
 ## Authors 
 
 Martin Ferianc (martin.ferianc.19@ucl.ac.uk), Hongxiang Fan, Ringo S. W. Chu, Jakub Stano and Wayne Luk, 2020
+
+#### Acknowledgments
+
+We thank Yann Herklotz, Alexander Montgomerie-Corcoran and ARC'20 reviewers for insightful suggestions.
