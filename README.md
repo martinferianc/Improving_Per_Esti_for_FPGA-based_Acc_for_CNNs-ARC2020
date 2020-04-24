@@ -1,6 +1,6 @@
 # Improving Performance Estimation for FPGA-based Accelerators for Convolutional Neural Networks
 
-A codebase accompanying the paper "Improving Performance Estimation for FPGA-based Accelerators for Convolutional Neural Networks", by Ferianc et al. presented at ARC'2020. The paper is in the repository under [`paper.pdf`](paper.pdf) accompanied by a presentation under [`presentation.pdf`](presentation.pdf). (They will be added after the presentation at ARC'2020 in April 2020)
+A codebase accompanying the paper "Improving Performance Estimation for FPGA-based Accelerators for Convolutional Neural Networks", by Ferianc et al. presented at ARC'2020. The paper is in the repository under [`paper.pdf`](paper.pdf) accompanied by a presentation under [`presentation.pdf`](presentation.pdf). 
 
 1. [Abstract](#Abstract)
 2. [Tutorial](#Tutorial)
@@ -56,16 +56,18 @@ and then navigate to the [`tutorial.ipynb`](tutorial.ipynb) by using the built-i
 
 ## Paper 
 
-The paper is in the repository under [`paper.pdf`](paper.pdf) accompanied by a presentation under [`presentation.pdf`](presentation.pdf). (They will be added after the presentation at ARC'2020 in April 2020)
+The paper is in the repository under [`paper.pdf`](paper.pdf) accompanied by a presentation under [`presentation.pdf`](presentation.pdf).
 
 ## Citation
 
 ```
 @inproceedings{ferianc2020improving,
-  title={Improving Performance Estimation for FPGA-based Accelerators for Convolutional Neural Networks},
-  author={Martin Ferianc and Hongxiang Fan and Ringo S. W. Chu and Jakub Stano and Wayne Luk},
-  booktitle={Proceedings of the 2020 16th International Symposium on Applied Reconfigurable Computing (ARC)},
+  title={Improving Performance Estimation for FPGA-Based Accelerators for Convolutional Neural Networks},
+  author={Ferianc, Martin and Fan, Hongxiang and Chu, Ringo SW and Stano, Jakub and Luk, Wayne},
+  booktitle={International Symposium on Applied Reconfigurable Computing},
+  pages={3--13},
   year={2020},
+  organization={Springer}
 }
 ```
 
