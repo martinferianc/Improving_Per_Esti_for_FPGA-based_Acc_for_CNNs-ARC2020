@@ -9,6 +9,7 @@ A codebase accompanying the paper "Improving Performance Estimation for FPGA-bas
 5. [Paper](#Paper)
 6. [Citation](#Citation)
 7. [Authors](#Authors)
+8. [News](#News)
 
 ## Abstract
 
@@ -78,3 +79,7 @@ Martin Ferianc (martin.ferianc.19@ucl.ac.uk), Hongxiang Fan, Ringo S. W. Chu, Ja
 #### Acknowledgments
 
 We thank Yann Herklotz, Alexander Montgomerie-Corcoran and ARC'20 reviewers for insightful suggestions.
+
+## News 
+
+We were in the news [here](https://www.nextplatform.com/2020/02/24/fpga-inroads-to-convolutional-neural-networks/) and [here](https://www.ucl.ac.uk/electronic-electrical-engineering/news/2020/may/improving-performance-estimation-convolutional-neural-network-accelerators).  
